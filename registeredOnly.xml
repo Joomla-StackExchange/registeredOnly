@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" type="plugin" group="system" method="upgrade">
+    <name>registeredOnly</name>
+    <author>Charlie Lodder</author>
+    <authorEmail>admin@joomjunk.co.uk</authorEmail>
+    <authorUrl>http://www.joomjunk.co.uk</authorUrl>
+    <creationDate>31-03-2016</creationDate>
+    <copyright>Copyright (C) 2016 - Charlie Lodder</copyright>
+    <license>GPL</license>
+    <version>1.0.0</version>
+    <description>This plugin restricts access to registered users only</description>
+
+    <files>
+        <filename plugin="registeredOnly">registeredOnly.php</filename>
+    </files>
+
+</extension>
